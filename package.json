@@ -75,7 +75,7 @@
     "classnames": "^2.2.6",
     "immutability-helper": "^3.0.1",
     "lightweight-charts": "^1.0.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "prop-types": "^15.7.2",
     "react-dnd": "7.7.0",
     "react-dnd-html5-backend": "7.7.0",
