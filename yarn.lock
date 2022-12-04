@@ -1450,9 +1450,9 @@ decamelize@^1.0.0, decamelize@^1.1.1, decamelize@^1.1.2, decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-eql@^3.0.1:
   version "3.0.1"
@@ -2102,6 +2102,11 @@ extsprintf@^1.2.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/extsprintf/-/extsprintf-1.4.0.tgz#e2689f8f356fad62cca65a3a91c5df5f9551692f"
   integrity sha1-4mifjzVvrWLMplo6kcXfX5VRaS8=
+
+fancy-canvas@0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/fancy-canvas/-/fancy-canvas-0.2.1.tgz#aa8e814cf352305492b5ec31e200182f5b7a0316"
+  integrity sha512-DuN+pTHJUAdgqY+k7zABWwjr3OAC6LasHUZ3UzKLUdGuctGjR5q0jbMqobTWZ7P0R18EtXEHRUXc7zOwpywreQ==
 
 fast-deep-equal@^2.0.1:
   version "2.0.1"
@@ -3303,6 +3308,13 @@ levn@~0.3.0:
   dependencies:
     prelude-ls "~1.1.2"
     type-check "~0.3.2"
+
+lightweight-charts@^1.0.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/lightweight-charts/-/lightweight-charts-1.2.2.tgz#92ef60c3a8dc2b2a1bd73619b4501cc106525f33"
+  integrity sha512-Lpz/OyhgIL4ceHtLWoGbKH/PdDlAGsWYf2CfGEthX69N/rqyz898tRt0/phQ9x7G3Z+4n7UhEgvS3TxFdBpiFA==
+  dependencies:
+    fancy-canvas "0.2.1"
 
 lines-and-columns@^1.1.6:
   version "1.1.6"
